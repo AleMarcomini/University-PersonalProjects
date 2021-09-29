@@ -1,4 +1,4 @@
-# University-PersonalProjects
+# University Personal Projects
 Hello world! 😃 
 
 This repo aims to be a coding portfolio in which I am presenting and making available all the works I did during my Master degree in Physis of Data at University of Padova, between 2020 and 2022. You can find several folders, related to assignments and/or final projects on various topics. Feel free to be curious and get inspired by these works! 🤓
