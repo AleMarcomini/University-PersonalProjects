@@ -12,3 +12,13 @@ In this course I discovered all the major tricks of **Python**, learning how to 
 
 ## Laboratory of Computational Physics - mod B 🧠
 As a natural sequel of the mod A, this course aimed to teach **machine learning methods for physics analysis**, from gradient descent techniques to clustering and RBMs. You will find a set of commented exercises and a **final project on the simulation of a quantum many-body wavefunction via neural networks**, to investigate the ground state of the Trasverse Field Ising model.
+
+## Management and Analysis of Physics Datasets - part I ⚙️
+In this course I learned fundamentals of hardware, with particular focus on the state of the art. I got taught how to use **VHD Language** to instruct Field Programmable Gate Arrays (**FPGAs**). In the **final project**, I wrote the code to implement a **FIR filter on an actual FPGA board**, with proper benchmarking and test.
+
+## Management and Analysis of Physics Datasets - part II 💾
+Suppose you are registering a large (I mean, VERY LARGE) amount of data per second: how can you store them in a pratical, efficient way minimizing failures and allowing for reconstruction? Here I learned a lot about data storage and recollection. In the **final assignment**, I investigated some case-sudy scenarios of **parity protocols and blockchain** development.
+
+## Management and Analysis of Physics Datasets - part III 🌐
+In this course I learned the functioning of **distributed calculus** and how to exploit **Dask** and **Spark** to allow for a network-based execution of demanding 
+computations. In the **final project** we performend in such a way an analysis of **CERN data** to reconstruct muons trajectories, aiming to optimize the code for parallel execution. 
