@@ -19,7 +19,7 @@ In this course I learned the bases of machine learning and got trained in using 
 ## Advanced Statistics for Physics Analysis 📈
 Here I report my work on statistical analysis in different frameworks (either physics-related or not) exploiting the programming language **R**. You can find a large amount of exercises dealing with several techniques, among all **simulations, data sampling and Bayesian inference**. It is worth mentioning two particolarly interesting projects:
 * A **game** I invented to understand Bayesian Inference (tutorial and gameplay [here](https://www.linkedin.com/posts/alessandro-marcomini_bayesian-inference-game-activity-6798181020328951808-DHBu))
-* A **final project on Bayesian Network** detection, with some technical methods, that we also **added to the open-source library Bnstruct**
+* A **final project on Bayesian Network** detection, with some technical methods, that we also **added to the open-source library Bnstruct** (which I provide in here with our updates)
 
 ## Management and Analysis of Physics Datasets - part I ⚙️
 In this course I learned fundamentals of hardware, with particular focus on the state of the art. I got taught how to use **VHD Language** to instruct Field Programmable Gate Arrays (**FPGAs**). In the **final project**, I wrote the code to implement a **FIR filter on an actual FPGA board**, with proper benchmarking and test.
