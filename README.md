@@ -22,3 +22,11 @@ Suppose you are registering a large (I mean, VERY LARGE) amount of data per seco
 ## Management and Analysis of Physics Datasets - part III 🌐
 In this course I learned the functioning of **distributed calculus** and how to exploit **Dask** and **Spark** to allow for a network-based execution of demanding 
 computations. In the **final project** we performend in such a way an analysis of **CERN data** to reconstruct muons trajectories, aiming to optimize the code for parallel execution. 
+
+## Advanced Statistics for Physics Analysis 📈
+Here I report my work on statistical analysis in different frameworks (either physics-related or not) exploiting the programming language **R**. You can find a large amount of exercises dealing with several techniques, among all **simulations, data sampling and Bayesian inference**. It is worth mentioning two particolarly interesting projects:
+* A **game** I invented to understand Bayesian Inference (tutorial and gameplay [here](https://www.linkedin.com/posts/alessandro-marcomini_bayesian-inference-game-activity-6798181020328951808-DHBu))
+* A **final project on Bayesian Network** detection, with some technical methods, that we also **added to the open-source library Bnstruct**
+
+## Computer Vision and Cognitive Services
+Here I post my work in the framework of **image recognition, feature extraction and classification** with several different techniques of computer vision. In my **final project**, I investigated multiple machine learning methods and vision tools to perform **vehicle detection and classification** on a video recorded by highway surveillance cameras, defining accurate metrics and discussing results. 
