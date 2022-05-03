@@ -10,7 +10,7 @@ Below you find a summary of folders content. Have a nice stay and enjoy! 😄
 ## Laboratory of Computational Phyiscs - mod A 💻
 In this course I discovered all the major tricks of **Python**, learning how to use libraries such as numpy, pandas, scikit learn and numba. You will find several **assignments and code exempla** that I tried to design in an elegant way. 
 
-## Laboratory of Computational Physics - mod B 🧠
+## Laboratory of Computational Physics - mod B 🔋
 As a natural sequel of the mod A, this course aimed to teach **machine learning methods for physics analysis**, from gradient descent techniques to clustering and RBMs. You will find a set of commented exercises and a **final project on the simulation of a quantum many-body wavefunction via neural networks**, to investigate the ground state of the Trasverse Field Ising model.
 
 ## Quantum Information and Computing 👨‍💻
@@ -47,3 +47,6 @@ In the **final project** we performend in such a way an analysis of **CERN data*
 
 ## Computer Vision and Cognitive Services 🖼️
 Here I post my work in the framework of **image recognition, feature extraction and classification** with several different techniques of computer vision. In my **final project**, I investigated multiple machine learning methods and vision tools to perform **vehicle detection and classification** on a video recorded by highway surveillance cameras, defining accurate metrics and discussing results. 
+
+## Network Science 🧠
+I propose here the final report of an investigation of the **Cancel Culture on Twitter** in late 2021. The whole work is the summary of the effort of a team of eigth people and two months of work. This experience taught me how to deal with **social media** and use them as **information source**, scrape and organize data, analyse them in a convenient way to extrapolate features and results of interest. 
