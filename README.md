@@ -13,13 +13,25 @@ In this course I discovered all the major tricks of **Python**, learning how to 
 ## Laboratory of Computational Physics - mod B 🧠
 As a natural sequel of the mod A, this course aimed to teach **machine learning methods for physics analysis**, from gradient descent techniques to clustering and RBMs. You will find a set of commented exercises and a **final project on the simulation of a quantum many-body wavefunction via neural networks**, to investigate the ground state of the Trasverse Field Ising model.
 
+## Quantum Information and Computing 👨‍💻
+In this course I learned how to properly design and use code for **numerical simulations** in the theoretical physics framework. I used Fortran to dig into problems such as solving Schrödinger's equations and simulate **many-body quantum systems** via Renormalization Group techniques and **Tensor Networks**.
+In my final project I applied the latter technology to the problem of **discriminating true (quantum) random and pseudo random numbers**. *The code I used is under NDA, but I provide the presentation and **poster** I promoted at the 2022 European Spring School in Quantum Science and Technology in Strasbourg.*
+
 ## Machine Learning 🤖
 In this course I learned the bases of machine learning and got trained in using both **supervised and unsupervised learning techniques**. I collected here all my **assignments**, where I investigated different case-studies and practical examples.
 
 ## Advanced Statistics for Physics Analysis 📈
 Here I report my work on statistical analysis in different frameworks (either physics-related or not) exploiting the programming language **R**. You can find a large amount of exercises dealing with several techniques, among all **simulations, data sampling and Bayesian inference**. It is worth mentioning two particolarly interesting projects:
 * A **game** I invented to understand Bayesian Inference (tutorial and gameplay [here](https://www.linkedin.com/posts/alessandro-marcomini_bayesian-inference-game-activity-6798181020328951808-DHBu))
-* A **final project on Bayesian Network** detection, with some technical methods, that we also **added to the open-source library Bnstruct** (which I provide in here with our updates)
+* A **final project on Bayesian Network** detection, with some technical methods, that we also **added to the open-source library Bnstruct** (which I provide in here with our updates).
+
+## Quantum Communication and Cryptography 🔐
+Here I report my work for labs where I investigated **Quantum Random Number Generators** (QRNGs) and **Quantum Key Distribution** (QKD) both from an experimental (photon-based) and theoretical point of view. For the former problem (Lab1) I compare different methods that provide **theoretical bounds on the amount of secret true random bits** to be extracted in the setup. For the latter (Lab3) I estimate the **Secret Key Rate** in presence of leakages, defining post-processing techniques. In Lab2 I provide additional material on Low-Density Parity-Check codes. 
+I also upload here the **full lecture notes of the course** that I took in collaboration with some friends, revisited by the Professors. 
+
+## Game Theory 🎲 + 🏎️
+For the final project of this course I developed a **Formula 1 simulator** that predicts the outcome of a Grand Prix assuming all drivers are **rational decision-makers** in a **dynamic game-theoretical framework**. The program is fully customizable and relies on real-world data, including features such as pit-stops, tyre aging, safety car, human mistakes, etc. 
+I also provide the **draft paper** me and my colleagues wrote on the basis of our results.
 
 ## Management and Analysis of Physics Datasets - part I ⚙️
 In this course I learned fundamentals of hardware, with particular focus on the state of the art. I got taught how to use **VHD Language** to instruct Field Programmable Gate Arrays (**FPGAs**). 
@@ -35,15 +47,3 @@ In the **final project** we performend in such a way an analysis of **CERN data*
 
 ## Computer Vision and Cognitive Services 🖼️
 Here I post my work in the framework of **image recognition, feature extraction and classification** with several different techniques of computer vision. In my **final project**, I investigated multiple machine learning methods and vision tools to perform **vehicle detection and classification** on a video recorded by highway surveillance cameras, defining accurate metrics and discussing results. 
-
-## Quantum Information and Computing 👨‍💻
-In this course I learned how to properly design and use code for **numerical simulations** in the theoretical physics framework. I used Fortran to dig into problems such as solving Schrödinger's equations and simulate **many-body quantum systems** via Renormalization Group techniques and **Tensor Networks**.
-In my final project I applied the latter technology to the problem of **discriminating true (quantum) random and pseudo random numbers**. *The code I used is under NDA, but I provide the presentation and **poster** I promoted at the 2022 European Spring School in Quantum Science and Technology in Strasbourg.*
-
-## Quantum Communication and Cryptography 🔐
-Here I report my work for labs where I investigated **Quantum Random Number Generators** (QRNGs) and **Quantum Key Distribution** (QKD) both from an experimental (photon-based) and theoretical point of view. For the former problem (Lab1) I compare different methods that provide **theoretical bounds on the amount of secret true random bits** to be extracted in the setup. For the latter (Lab3) I estimate the **Secret Key Rate** in presence of leakages, defining post-processing techniques. In Lab2 I provide additional material on Low-Density Parity-Check codes. 
-I also upload here the **full lecture notes of the course** that I took in collaboration with some friends, revisited by the Professors. 
-
-## Game Theory 🎲 + 🏎️
-For the final project of this course I developed a **Formula 1 simulator** that predicts the outcome of a Grand Prix assuming all drivers are **rational decision-makers** in a **dynamic game-theoretical framework**. The program is fully customizable and relies on real-world data, including features such as pit-stops, tyre aging, safety car, human mistakes, etc. 
-I also provide the **draft paper** me and my colleagues wrote on the basis of our results.
