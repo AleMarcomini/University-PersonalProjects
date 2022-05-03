@@ -22,14 +22,28 @@ Here I report my work on statistical analysis in different frameworks (either ph
 * A **final project on Bayesian Network** detection, with some technical methods, that we also **added to the open-source library Bnstruct** (which I provide in here with our updates)
 
 ## Management and Analysis of Physics Datasets - part I ⚙️
-In this course I learned fundamentals of hardware, with particular focus on the state of the art. I got taught how to use **VHD Language** to instruct Field Programmable Gate Arrays (**FPGAs**). In the **final project**, I wrote the code to implement a **FIR filter on an actual FPGA board**, with proper benchmarking and test.
+In this course I learned fundamentals of hardware, with particular focus on the state of the art. I got taught how to use **VHD Language** to instruct Field Programmable Gate Arrays (**FPGAs**). 
+In the **final project**, I wrote the code to implement a **FIR filter on an actual FPGA board**, with proper benchmarking and test.
 
 ## Management and Analysis of Physics Datasets - part II 💾
-Suppose you are registering a large (I mean, VERY LARGE) amount of data per second: how can you store them in a pratical, efficient way minimizing failures and allowing for reconstruction? Here I learned a lot about data storage and recollection. In the **final assignment**, I investigated some case-sudy scenarios of **parity protocols and blockchain** development.
+Suppose you are registering a large (I mean, VERY LARGE) amount of data per second: how can you store them in a pratical, efficient way minimizing failures and allowing for reconstruction? Here I learned a lot about data storage and recollection. 
+In the **final assignment**, I investigated some case-sudy scenarios of **parity protocols and blockchain** development.
 
 ## Management and Analysis of Physics Datasets - part III 🕸️
-In this course I learned the functioning of **distributed calculus** and how to exploit **Dask** and **Spark** to allow for a network-based execution of demanding 
-computations. In the **final project** we performend in such a way an analysis of **CERN data** to reconstruct muons trajectories, aiming to optimize the code for parallel execution. 
+In this course I learned the functioning of **distributed calculus** and how to exploit **Dask** and **Spark** to allow for a network-based execution of demanding computations. 
+In the **final project** we performend in such a way an analysis of **CERN data** to reconstruct muons trajectories, aiming to optimize the code for parallel execution. 
 
 ## Computer Vision and Cognitive Services 🖼️
 Here I post my work in the framework of **image recognition, feature extraction and classification** with several different techniques of computer vision. In my **final project**, I investigated multiple machine learning methods and vision tools to perform **vehicle detection and classification** on a video recorded by highway surveillance cameras, defining accurate metrics and discussing results. 
+
+## Quantum Information and Computing 👨‍💻
+In this course I learned how to properly design and use code for **numerical simulations** in the theoretical physics framework. I used Fortran to dig into problems such as solving Schrödinger's equations and simulate **many-body quantum systems** via Renormalization Group techniques and **Tensor Networks**.
+In my final project I applied the latter technology to the problem of **discriminating true (quantum) random and pseudo random numbers**. *The code I used is under NDA, but I provide the presentation and **poster** I promoted at the 2022 European Spring School in Quantum Science and Technology in Strasbourg.*
+
+## Quantum Communication and Cryptography 🔐
+Here I report my work for labs where I investigated **Quantum Random Number Generators** (QRNGs) and **Quantum Key Distribution** (QKD) both from an experimental (photon-based) and theoretical point of view. For the former problem (Lab1) I compare different methods that provide **theoretical bounds on the amount of secret true random bits** to be extracted in the setup. For the latter (Lab3) I estimate the **Secret Key Rate** in presence of leakages, defining post-processing techniques. In Lab2 I provide additional material on Low-Density Parity-Check codes. 
+I also upload here the **full lecture notes of the course** that I took in collaboration with some friends, revisited by the Professors. 
+
+## Game Theory 🎲 + 🏎️
+For the final project of this course I developed a **Formula 1 simulator** that predicts the outcome of a Grand Prix assuming all drivers are **rational decision-makers** in a **dynamic game-theoretical framework**. The program is fully customizable and relies on real-world data, including features such as pit-stops, tyre aging, safety car, human mistakes, etc. 
+I also provide the **draft paper** me and my colleagues wrote on the basis of our results.
